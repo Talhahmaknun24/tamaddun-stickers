@@ -1,0 +1,18 @@
+{
+  "packs": [
+    {
+      "id": "islamic1",
+      "name": "ইসলামিক স্টিকার",
+      "type": "sticker",
+      "version": 1,
+      "zip": "https://raw.githubusercontent.com/Talhahmaknun24/tamaddun-stickers/main/packs/islamic1.zip"
+    },
+    {
+      "id": "fun-gif",
+      "name": "মজার GIF",
+      "type": "gif",
+      "version": 1,
+      "zip": "https://raw.githubusercontent.com/Talhahmaknun24/tamaddun-stickers/main/packs/fun-gif.zip"
+    }
+  ]
+}
