@@ -1,0 +1,31 @@
+{
+  "earnPerAd": 10,
+  "perUseCoins": 5,
+  "dayPassCoins": 50,
+  "gates": {
+    "ai_write": "free",
+    "ai_image": "free",
+    "ai_translate": "free",
+    "ai_tone": "free",
+    "ai_grammar": "free",
+    "ai_rewrite": "free",
+    "ai_shorten": "free",
+    "ai_professional": "free",
+    "ai_friendly": "free",
+    "ai_humour": "free",
+    "ai_emotion": "free",
+    "ai_detail": "free",
+    "ai_email": "free",
+    "ai_social": "free",
+    "ai_reply": "free",
+    "ai_emoji_boost": "free",
+    "voice": "free",
+    "special_fonts": "free",
+    "special_dates": "free",
+    "special_kaomoji": "free",
+    "special_convert": "free",
+    "tutorial": "free"
+  },
+  "packs": {},
+  "themes": {}
+}
